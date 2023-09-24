@@ -50,7 +50,7 @@ I am Software Engineering Student at Firat University (3).
 [<img height="32" width="32" src="https://cdn.simpleicons.org/instagram/#E4405F"/>][Instagram]
 
 
-[Linkedin]: https://www.linkedin.com/in/
+[Linkedin]: https://www.linkedin.com/in/abdulkadir-erbas/
 [Instagram]: https://instagram.com/
 
 
