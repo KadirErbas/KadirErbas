@@ -33,7 +33,7 @@ I am Software Engineering Student at Firat University (3).
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> </a>
 <a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-2019" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a>
-<a href="https://learn.microsoft.com/tr-tr/dotnet/welcome" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/105/481/png-clipart-net-framework-software-framework-programmer-computing-platform-microsoft-corporation-7s-framework-example-blue-text.png" alt="git" width="35" height="35"/> </a>
+<a href="https://learn.microsoft.com/tr-tr/dotnet/welcome" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/636/405/png-transparent-net-core-thumbnail.png" alt="git" width="35" height="35"/> </a>
 </p>
 
 ### Reach out to me
