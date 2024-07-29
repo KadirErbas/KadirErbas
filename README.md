@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5c28cd27-d50d-458f-8476-fece452d342f)### Hi there 👋
+### Hi there 👋
 
 <!--
 **KadirErbas/KadirErbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
